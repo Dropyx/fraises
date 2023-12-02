@@ -1,0 +1,86 @@
+body {
+    background-color: #E0E0E0;
+    font-family: Helvetica, sans-serif;
+}
+
+.fond {
+    width: 900px;  
+    margin: auto;  
+    background: #fcfcea;
+    margin-top: 30px;
+}
+
+header {
+    background: #b71236;
+    color: white;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    padding: 0 25px;
+    font-style: italic;
+}
+
+p {
+    padding: 0 25px;
+}
+
+a {
+    color: rgba(128, 128, 128, 0.705);
+}
+
+#cadre {
+    width: 400px;
+    margin: auto;
+    background: white;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#cadre img {
+    width: 400px;
+}
+
+.separateur {
+    border-bottom: 2px solid #b71236;
+    margin: 0 25px;
+}
+
+ul {
+   padding: 0 65px; 
+}
+
+#poeme {
+    padding: 0 30px;
+}
+
+footer {
+    height: 100px;
+    background: rgba(128, 128, 128, 0.473);
+    margin-bottom: 30px;
+}
+
+#pied-de-page {
+    background: white;
+    height: 100px;
+    margin: 0 20px;
+}
+
+#pied-de-page-paragraphe-1 {
+    text-align: right;
+    padding-top: 10px;
+}
+
+#pied-de-page-paragraphe-2 {
+    text-align: right;
+}
